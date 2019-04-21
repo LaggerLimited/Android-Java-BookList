@@ -10,7 +10,7 @@ Debug package for download:
 
 ## Usage
 
-After installing the .APK file use the search bar at the top of the list to query the Google Books API. The list features the books’ picture, title, author, and price.
+After installing the .APK file use the search bar at the top of the list to query the Google Books API. The list features the books’ picture, title, author, and price. More information can be displayed by selecting a book from the list.
 
 ## Java Code
 
