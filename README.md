@@ -6,7 +6,7 @@ BookList is an Android application that uses JSON to query the Google Books API 
 
 Debug package for download:
 
-[BookList App](https://github.com/LaggerLimited/Android-Java-BookList/blob/master/app-debug.apk)
+[BookList App](https://github.com/LaggerLimited/Android-Java-BookList/blob/master/BookList-debug.zip)
 
 ## Usage
 
